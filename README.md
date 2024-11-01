@@ -20,7 +20,12 @@
 
 ※uml(클래스 다이어그램)※
 
-![SudokuGame Uml](https://github.com/user-attachments/assets/d8c10c12-b7bc-4c13-b5b6-dde05a904418)
+![SudokugameUml](https://github.com/user-attachments/assets/87ffadac-abd0-4efd-a68e-fe3b248a1d20)
+
+
+
+
+
 
 
 

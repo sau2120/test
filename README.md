@@ -1,4 +1,4 @@
-※ 프로젝트 명과 프로젝트 기능
+※ 프로젝트 명과 프로젝트 기능※
 
 -프로젝트 명: 스도쿠 게임
 
@@ -18,7 +18,7 @@
 
 
 
-2. uml(클래스 다이어그램)
+※uml(클래스 다이어그램)※
 
 ![SudokuGame Uml](https://github.com/user-attachments/assets/d8c10c12-b7bc-4c13-b5b6-dde05a904418)
 
